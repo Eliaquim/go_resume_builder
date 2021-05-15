@@ -1,0 +1,66 @@
+{
+  "Name": "Eliaquim Tchitalacumbi",
+  "Job": "Software Developer",
+  "Email": "chinguelessi@gmail.com",
+  "Website": "facebook.com/chinguelessi",
+  "Location": "Lobito, Benguela, Angola",
+  "Mission": "A procura de conexoes para projetos desenvolvimento de software",
+  "Skills": [
+    "Java",
+    "Spring Boot",
+    "Vue.js",
+    "System Design"
+  ],
+  "Experiences": [
+    {
+      "Role": "Translator",
+      "Entity": "Education Action",
+      "Started": "June 2007",
+      "Stopped": "July 2007",
+      "Location": "London, UK (remote)",
+      "Details": [
+        "English to Portuguese written translation of applicants CV",
+        "Connetion of client to English to Umbundu translator"
+      ]
+    },
+    {
+      "Role": "Teacher",
+      "Entity": "Nancy's English School",
+      "Started": "Janeiro 2007",
+      "Stopped": "Abril 2010",
+      "Location": "Benguela, Angola",
+      "Details": [
+        "English teaching",
+        "Callan method",
+        "Aulas ao domicílio",
+        "Responsável temporário da primeira filial (Lobito)"
+      ]
+    },
+    {
+      "Role": "CTO",
+      "Entity": "Edusonar",
+      "Started": "Fevereiro 2019",
+      "Stopped": "Atual",
+      "Location": "Lobito, Benguela",
+      "Details": [
+        "Ideia e desenho",
+        "Desenvolvimento e implementacao: Spring Boot, VueJS, MySQL, AWS",
+        "State machines, microservices, Ubuntu server, security"
+      ]
+    }
+  ],
+  "Projects": [
+    "Edusonar software ecossystem: Java, Vue.js",
+    "Platatecno AuthN System: Keycloak",
+    "Setup and maintenance of MySQL DB at AWS",
+    "Random weekly food calendar in PHP",
+    "Personal TODO manager: Android, Google App Store"
+  ],
+  "Education": [
+    "Bachelor of Education - Teaching English as a Foreign Language"
+  ],
+  "Languages": [
+    "Portuguese",
+    "English"
+  ]
+}

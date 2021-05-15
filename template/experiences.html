@@ -1,0 +1,22 @@
+<div class="experience">
+  <h2>Experiencia</h2>
+  {{ range .Experiences }}
+  <div class="experience__employer">
+    <div class="experience__role">
+      <div><strong>{{.Role}}</strong></div>
+      <div class="experience__dates">
+        {{.Started}} - {{if .Stopped}}{{.Stopped}}{{else}}Atual{{end}}
+      </div>
+      <div class="experience__entity">
+        {{.Entity}} <span class="experience__location">({{.Location}}</span>
+      </div>
+    </div>
+
+    <ul class="experience__details">
+      {{ range .Details }}
+      <li class="experience__detail">{{- . -}}</li>
+      {{end}}
+    </ul>
+  </div>
+  {{end}}
+</div>
